@@ -90,4 +90,5 @@
         <variable name="SENDER_ID" value="475492431309" />
     </plugin>
     <plugin name="onesignal-cordova-plugin" spec="^2.2.2" />
+    <engine name="ios" spec="~4.5.3" />
 </widget>
